@@ -1,0 +1,6 @@
+digraph RB2 {
+    "Previa" -> "Posterior"
+    "Data" -> "Posterior"
+    "Posterior" ->  "Posterior "
+    "Nuevos datos" -> "Posterior "
+}

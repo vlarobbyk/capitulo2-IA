@@ -1,0 +1,6 @@
+digraph RB1 {
+    "Info Inicial : 5 estrellas" -> "Actualiza Info : 3 estrellas"
+    "Datos: Pernil Seco" -> "Actualiza Info : 3 estrellas"
+    "Nuevos Datos: Buena empanada" ->  "Actualiza Info : 4 estrellas"
+    "Actualiza Info : 3 estrellas" -> "Actualiza Info : 4 estrellas"
+}
